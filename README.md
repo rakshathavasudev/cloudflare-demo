@@ -3,7 +3,7 @@
 A simple **Cloudflare Worker** built using **JavaScript** to serve a minimal “About Me” web page.  
 Deployed using **Wrangler** — Cloudflare’s CLI for managing and publishing Workers.
 
-🌐 **Live Demo:** [https://cloudflare-demo.rakshathavasudev.workers.dev](https://cloudflare-demo.rakshathavasudev.workers.dev)
+🌐 **Live Demo:** [https://rest-api-worker.rakshatha-testapi.workers.dev/](https://rest-api-worker.rakshatha-testapi.workers.dev/)
 
 ---
 
